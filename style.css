@@ -1,0 +1,47 @@
+body{
+    font-family: cursive;
+    background-color:rgba(73, 94, 73, 0.693);
+}
+                                                  
+#header{
+    text-align: center;
+}
+
+#aboutMe{
+    text-align: center;
+}
+
+#details{
+    text-align: center;
+}
+                                                   
+#header-title{
+    color: rgb(10, 57, 77);
+}
+#pfp{
+    border-radius: 100%;
+    width: 270px;
+}
+
+#aboutMe{
+    color: rgb(10, 57, 77);
+}
+
+#myHobbies{
+    color: rgb(10, 57, 77);
+}
+
+#favouriteGames{
+    color: rgb(10, 57, 77);
+}
+
+#myProjects{
+    color: rgb(10, 57, 77);
+}
+
+#contactMe{
+    color: rgb(10, 57, 77);
+}
+.sectionAbout{
+    text-align: center;
+}
